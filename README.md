@@ -7,7 +7,9 @@ After seeing of database. I took information on the gender of the astronauts and
 ![image](https://user-images.githubusercontent.com/77762190/114971721-96cd5000-9e42-11eb-9853-1362d631ae4a.png)
 
 The second graph was "number of astronauts per year" on a line graph:
-<div style="text-align:center"><img src="![image](https://user-images.githubusercontent.com/77762190/114972237-bd3fbb00-9e43-11eb-8984-5ca9549b9fce.png)" /></div>
 
 
 
+<p align="center">
+  <img src="http://some_place.com/image.png" />
+</p>
