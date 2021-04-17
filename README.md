@@ -36,3 +36,9 @@ The final graphic is a map of each astronaut's birthplace. This map has dots in 
 In my Tableau public, you can see the dashboard with all dynamics graphs
 https://public.tableau.com/profile/brayan.betnaocurt.villegas#!/vizhome/AstronautsofNASA1959-2009/DashboardNASA?publish=yes
 
+This is the dashboard:
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/77762190/115104800-7d023a80-9f20-11eb-8c53-47b6ce87b09f.png" />
+</p>
+
