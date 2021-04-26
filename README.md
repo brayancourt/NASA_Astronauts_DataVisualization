@@ -6,7 +6,7 @@ In the Tableau(Software of data visualiztion) was created the dashboard of NASA 
 After seeing of database. I took information on the gender of the astronauts and then I built the first bar graph:
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/77762190/116164355-39959200-a6bf-11eb-895a-47f5c32a3789.png)" />
+  <img src="https://user-images.githubusercontent.com/77762190/116164355-39959200-a6bf-11eb-895a-47f5c32a3789.png" />
 </p>
 
 The second graph was "number of astronauts per year" as line graph:
